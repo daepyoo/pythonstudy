@@ -2,6 +2,6 @@
 a=1
 b=2
 c=a+b
-d=c*c
+d=c*c*c
 ##print(c)
 print(d)
