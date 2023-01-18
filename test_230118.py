@@ -2,4 +2,6 @@
 a=1
 b=2
 c=a+b
-print(c)
+d=c*c
+##print(c)
+print(d)
